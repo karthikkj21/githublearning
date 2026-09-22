@@ -1,2 +1,3 @@
 print("Hello, World!")
-print("This is a sample Python file.")
+print("This   a sample Python file.")
+
